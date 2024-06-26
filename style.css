@@ -1,0 +1,24 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:mediumslateblue;
+}
+
+h1,h2{
+    text-align:start;
+}
+blockquote{
+    font-size: 3rem;
+    font-style: italic;
+}
+cite{
+    font-size: 2rem;
+}
+a:link{
+   text-decoration: underline;
+   font-weight: bold; 
+   
+}
+a:hover{
+    color:yellow;
+}
+
